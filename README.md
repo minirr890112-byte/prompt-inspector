@@ -7,12 +7,12 @@ Scan AI prompts for censorship trigger words, get rewrite suggestions, and uncen
 ## Install
 
 ```bash
-pip install git+https://github.com/minirr890112-byte/HermesMade.git#subdirectory=prompt-inspector
+pip install git+https://github.com/minirr890112-byte/prompt-inspector.git
 ```
 
 Or from local:
 ```bash
-cd HermesMade/prompt-inspector && pip install .
+cd prompt-inspector && pip install .
 ```
 
 ## Usage
