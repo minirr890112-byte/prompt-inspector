@@ -43,4 +43,12 @@ Includes ready-to-copy uncensored system prompts for Gemma, DeepSeek, and Llama.
 
 ## From Reddit
 
-Part of [HermesMade](https://github.com/minirr890112-byte/HermesMade) — tools built from real Reddit pain points.
+## 生态系统
+
+| Tool | Description |
+|---|---|
+| [code-inspector](https://github.com/minirr890112-byte/code-inspector) | AI code quality detection |
+| [api-cost-compare](https://github.com/minirr890112-byte/api-cost-compare) | Compare LLM API pricing |
+| [model-watch](https://github.com/minirr890112-byte/model-watch) | Monitor models for degradation |
+
+Part of [HermesMade]Part of [HermesMade](https://github.com/minirr890112-byte/HermesMade) — tools built from real Reddit pain points.
